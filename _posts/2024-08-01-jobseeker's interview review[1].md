@@ -22,5 +22,7 @@ They also asked about my works. I explained them how I did the work and what I l
 ### After the interview
 I didn't see some of the questions coming and it's a shame that I couldn't answer them well. I should prepare more about interview for getting job.
 
-ps. Writing in english is challenging for me. I need to study it more.
+<p>
+ps. Writing in english is challenging for me. I need to study it more.<br>
 ps2. If you find a grammatical error, remember that I'm not a native and tell me where it is. 
+</p>
